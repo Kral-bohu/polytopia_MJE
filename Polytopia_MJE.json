@@ -1,4 +1,4 @@
-{
+﻿{
   "language": "Čeština",
   "startmenu.new_game": "PAŘIT!!!",
   "startmenu.multiplayer": "více hráčů",
@@ -584,7 +584,7 @@
   "wcontroller.kill.upgrade.title": "Postup!",
   "wcontroller.examine.water.elyrion": "V očarovaných ruinách žije {0} a ochotně nabízí, že se k tobě přidá!",
   "wcontroller.examine.water": "Narazil jsi na partu přátelských pirátů a ti se k tobě přidali! (místo aby tě zardousili!)",
-  "wcontroller.examine.water.title": "Betla,
+  "wcontroller.examine.water.title": "Betla",
   "wcontroller.examine.giant": "Je tu {0} a ochotně nabízí, že se k vám přidá!",
   "wcontroller.examine.swordsman": "Je tu zkušený mečař a rozhodl se přidat se k tobě!",
   "wcontroller.examine.swordsman.title": "Nové známosti",
